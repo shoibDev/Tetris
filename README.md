@@ -11,7 +11,7 @@ efficient, and maintainable codebase. This game features a graphical user interf
 
 1. Clone the repository:
    ```bash
-   $ git clone https://github.com/your-github/Hand-Recognition.git
+   $ https://github.com/shoibDev/Tetris.git
 
 2. Run Command:
    ```bash
@@ -26,10 +26,6 @@ efficient, and maintainable codebase. This game features a graphical user interf
 - **Down Arrow**: Drop the block faster
 - **Spacebar**: Quick drop
 - **Shift Key**: Hold the block
-
-## Screenshots
-
-
 
 ## Inspiration
 
